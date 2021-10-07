@@ -1,0 +1,102 @@
+[
+  {
+    "question" : "Which element is most abundant (by mass) in the Earth’s crust?",
+    "answers" : ["Carbon", "Oxygen", "Magnesium", "Silicon"],
+    "correctAnswer" : "Oxygen"
+  },
+  {
+    "question" : "Which gas has the highest molar solubility in water at 25°C and 1 atm?",
+    "answers" : ["CO2", "NH3", "O2", "H2S"],
+    "correctAnswer" : "NH3"
+  },
+  {
+    "question" : "Which compound is colorless?",
+    "answers" : ["NaMnO4", "CrAsO4", "RbIO4", "BaCrO4"],
+    "correctAnswer" : "RbIO4"
+  },
+  {
+    "question" : "An amine with the formula C4H11N will have which of these properties?",
+    "answers" : ["Unpleasant odor", "Boiling point greater than 100°C", "Absorption of light with λ > 450 nm", "Water solubility less than 10 g/L"],
+    "correctAnswer" : "Unpleasant odor"
+  },
+  {
+    "question" : "Which is a possible set of quantum numbers n, l, ml, ms for a valence electron of sulfur (S)?",
+    "answers" : ["3, 2, 2, 1/2", "3, 1, –1, 1/2", "2, 1, 0, 1/2", "3, 2, 0, –1/2"],
+    "correctAnswer" : "3, 1, –1, 1/2"
+  },
+  {
+    "question" : "Which salt dissolves in water to give a pink solution?",
+    "answers" : ["Co(CH3COO)2", "CuSO4", "Fe(NO3)3", "ZnCl2"],
+    "correctAnswer" : "Co(CH3COO)2"
+  },
+  {
+    "question" : "Which element does NOT have multiple allotropes?",
+    "answers" : ["Carbon", "Oxygen", "Fluorine", "Phosphorus"],
+    "correctAnswer" : "Fluorine"
+  },
+  {
+    "question" : "Which reaction is not exothermic?",
+    "answers" : ["Dilution of concentrated hydrochloric acid in water.", "Dilution of concentrated sulfuric acid in water.", "Dissolution of solid sodium hydroxide in water.", "Dissolution of solid sodium bicarbonate in water."],
+    "correctAnswer" : "Dissolution of solid sodium bicarbonate in water."
+  },
+  {
+    "question" : "Which gas has an effusion rate closest to half that of oxygen gas at a given temperature?",
+    "answers" : ["H2", "He", "SO2", "Xe"],
+    "correctAnswer" : "Xe"
+  },
+  {
+    "question" : "Which compound has the highest normal boiling point?",
+    "answers" : ["1-butanol, CH3CH2CH2CH2OH", "2-butanol, CH3CH2CH(CH3)OH", "2-methyl-1-propanol, (CH3)2CHCH2OH", "2-methyl-2-propanol, (CH3)3COH"],
+    "correctAnswer" : "1-butanol, CH3CH2CH2CH2OH"
+  },
+  {
+    "question" : "The rate constant for an elementary chemical reaction can be affected by which of the following? (I. Reactant concentrations) (II. Product concentrations)",
+    "answers" : ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "correctAnswer" : "Neither I nor II"
+  },
+  {
+    "question" : "Which molecule is planar?",
+    "answers" : ["CF4", "COF2", "SF4", "SOF2"],
+    "correctAnswer" : "COF2"
+  },
+  {
+    "question" : "Which statement about unsaturated fats is NOT correct?",
+    "answers" : ["Unsaturated fats contain carbon-carbon double bonds.", "Unsaturated fats generally have higher melting points than saturated fats with the same number of carbon atoms.", "Unsaturated fats can be converted to saturated fats by treatment with H2 in the presence of a metal catalyst.", "Unsaturated fats must contain oxygen."],
+    "correctAnswer" : "Unsaturated fats generally have higher melting points than saturated fats with the same number of carbon atoms."
+  },
+  {
+    "question" : "The electronegativity of gallium (1.8) is greater than that of aluminum (1.6). Which is the best explanation for this difference?",
+    "answers" : ["Ga is larger than Al, so its valence electrons experience less electron-electron repulsion.", "Ga has more protons than Al, so its valence electrons are more attracted to the nucleus.", "Ga has a filled 3d subshell, whose electrons incompletely screen the nucleus.", "Ga experiences significant relativistic effects, which contract the valence orbitals."],
+    "correctAnswer" : "Ga has a filled 3d subshell, whose electrons incompletely screen the nucleus."
+  },
+  {
+    "question" : "Which solute, when dissolved in 1kg H2O, will give the solution with the highest boiling point?",
+    "answers" : ["50 g ethylene glycol, HOCH2CH2OH", "50 g hydroxyacetic acid, HOCH2COOH", "50 g glycerol, HOCH2CHOHCH2OH", "50 g glyoxal, HCOCHO"],
+    "correctAnswer" : "50 g glyoxal, HCOCHO"
+  },
+  {
+    "question" : "A solution of which compound gives a violet flame test?",
+    "answers" : ["LiBr", "NaCl", "KNO3", "B(OH)3"],
+    "correctAnswer" : "KNO3"
+  },
+  {
+    "question" : "Hydrogen and oxygen gas are combined in a reaction vessel and reacted completely to form water. What volumes of gases (at STP) will give the greatest mass of water?",
+    "answers" : ["1.0 L H2 and 4.0 L O2", "2.0 L H2 and 3.0 L O2", "3.0 L H2 and 2.0 L O2", "4.0 L H2 and 1.0 L O2"],
+    "correctAnswer" : "3.0 L H2 and 2.0 L O2"
+  },
+  {
+    "question" : "Which glassware would be most appropriate for measuring 10.00 mL of distilled water?",
+    "answers" : ["A 10-mL test tube", "A 25-mL beaker", "A 50-mL buret", "A 100-mL graduated cylinder"],
+    "correctAnswer" : "A 50-mL buret"
+  },
+  {
+    "question" : "Addition of 10 mL of distilled water to 0.1 g of which salt produces a yellow, slightly cloudy solution?",
+    "answers" : ["KMnO4", "FeCl3", "Co(NO3)2", "CuSO4"],
+    "correctAnswer" : "FeCl3"
+  },
+  {
+    "question" : "Which statement about FNNF is NOT correct?",
+    "answers" : ["It exists as two distinct geometric isomers.", "It is planar.", "Its nitrogen-nitrogen bond is longer than that in N2F4.", "It is more stable than its structural isomer with both fluorine atoms bonded to the same nitrogen."],
+    "correctAnswer" : "Its nitrogen-nitrogen bond is longer than that in N2F4."
+  }
+]
