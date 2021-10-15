@@ -111,19 +111,19 @@ class MainActivity : AppCompatActivity() {
         finalText.visibility = View.VISIBLE
 
         if (quiz.score == 20) {
-            finalText.text = "Score = 20\n" + "The title of 'chem god' does not even deserve you. You have transcended beyond the chemistry knowledge and expertise even of that of a god. All chemistry teachers will forever bow at your feet."
+            finalText.text = getString(R.string.main_score) + "20\n" + getString(R.string.main_20result)
         }
         else if (quiz.score >= 15) {
-            finalText.text = "Score = "+ quiz.score + "\nYou know, you’re not too bad. If you are Asian, your family will probably disown you. However, compared to the general population, you’re still above average. But because you want to get better at chemistry and nail that perfect 20/20, you should join chemistry club. Instagram: @sphs.chemistry."
+            finalText.text = getString(R.string.main_score) + quiz.score + "\n" + getString(R.string.main_1519result)
         }
         else if (quiz.score >= 10) {
-            finalText.text = "Score = "+ quiz.score + "\nYou’re likely one of the kids that are currently failing AP Chem and need tutoring help. You can probably do better than this, but at least you’re above average. Although chemistry club is anything but average, we suppose that we can accept you. DM one of the officers to join."
+            finalText.text = getString(R.string.main_score) + quiz.score + "\n" + getString(R.string.main_1014result)
         }
         else if (quiz.score >= 5) {
-            finalText.text = "Score = "+ quiz.score + "\nYou did not even reach 50%! That’s not even half correct! If you got 50% on a test at school, you would probably be making your own dinner. If you had 50% of the money in your bank account, you would have 0 dollars. If you missed 50% of the shots you took, you would likely be single forever. Chemistry club is ashamed to be in your presence."
+            finalText.text = getString(R.string.main_score) + quiz.score + "\n" + getString(R.string.main_59result)
         }
         else {
-            finalText.text = "Score = "+ quiz.score + "\nYou either never learned any chemistry or completely failed chemistry. If it’s the latter, please feel free by all means to be as embarrassed as possible. Absolutely shameful. Disgusting. Raw. Unseasoned. Chemistry club will never accept you. You are more of a joke than our memes."
+            finalText.text = getString(R.string.main_score) + quiz.score + "\n" + getString(R.string.main_04result)
         }
 
     }

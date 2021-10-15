@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="main_score">"分数 = "</string>
+    <string name="main_20result">“化学之神”的称号根本配不上你。您已经超越了甚至是神的化学知识和专业知识。所有化学老师将永远跪在您的脚下。</string>
+    <string name="main_1519result">你知道，你还不算太坏。如果您是亚洲人，您的家人可能会与您断绝关系。但是，与一般人群相比，您仍然高于平均水平。但是因为你想在化学方面变得更好并达到完美的 20/20，所以你应该加入化学俱乐部。 Instagram：@sphs.chemistry</string>
+    <string name="main_1014result">您可能是目前 AP Chem 未通过并需要辅导帮助的孩子之一。你可能会做得比这更好，但至少你高于平均水平。虽然化学俱乐部不是一般的，但我们认为我们可以接受你。 DM 一名军官加入。</string>
+    <string name="main_59result">你甚至没有达到50%！这甚至没有一半是正确的！如果你在学校考试得了 50%，你可能会自己做晚餐。如果您的银行账户中有 50% 的钱，您将有 0 美元。如果你错过了 50% 的镜头，你可能会永远单身。化学俱乐部以你的存在为耻。</string>
+    <string name="main_04result">你要么从未学过任何化学，要么化学完全失败。如果是后者，请尽量不要尴尬。绝对可耻。恶心。生的。未经调味。化学俱乐部永远不会接受你。你比我们的模因更像是一个笑话。</string>
+</resources>

@@ -1,102 +1,102 @@
 [
   {
-    "question" : "Which element is most abundant (by mass) in the Earth’s crust?",
-    "answers" : ["Carbon", "Oxygen", "Magnesium", "Silicon"],
-    "correctAnswer" : "Oxygen"
+    "question" : "哪种元素在地壳中含量最高（按质量计）？",
+    "answers" : ["碳", "氧气", "镁", "硅"],
+    "correctAnswer" : "氧气"
   },
   {
-    "question" : "Which gas has the highest molar solubility in water at 25°C and 1 atm?",
+    "question" : "在25°C和1个大气压下，哪种气体在水中的摩尔溶解度最高？",
     "answers" : ["CO2", "NH3", "O2", "H2S"],
     "correctAnswer" : "NH3"
   },
   {
-    "question" : "Which compound is colorless?",
+    "question" : "什么化合物是无色的？",
     "answers" : ["NaMnO4", "CrAsO4", "RbIO4", "BaCrO4"],
     "correctAnswer" : "RbIO4"
   },
   {
-    "question" : "An amine with the formula C4H11N will have which of these properties?",
-    "answers" : ["Unpleasant odor", "Boiling point greater than 100°C", "Absorption of light with λ > 450 nm", "Water solubility less than 10 g/L"],
-    "correctAnswer" : "Unpleasant odor"
+    "question" : "分子式为 C4H11N 的胺将具有以下哪些性质？",
+    "answers" : ["难闻的气味", "沸点大于 100 °C", "λ > 450 nm 的光吸收", "水溶性小于 10 g/L"],
+    "correctAnswer" : "难闻的气味"
   },
   {
-    "question" : "Which is a possible set of quantum numbers n, l, ml, ms for a valence electron of sulfur (S)?",
+    "question" : "对于硫 (S) 的价电子，哪一组可能的量子数 n, l, ml, ms 是？",
     "answers" : ["3, 2, 2, 1/2", "3, 1, –1, 1/2", "2, 1, 0, 1/2", "3, 2, 0, –1/2"],
     "correctAnswer" : "3, 1, –1, 1/2"
   },
   {
-    "question" : "Which salt dissolves in water to give a pink solution?",
+    "question" : "哪种盐溶于水得到粉红色溶液？",
     "answers" : ["Co(CH3COO)2", "CuSO4", "Fe(NO3)3", "ZnCl2"],
     "correctAnswer" : "Co(CH3COO)2"
   },
   {
-    "question" : "Which element does NOT have multiple allotropes?",
-    "answers" : ["Carbon", "Oxygen", "Fluorine", "Phosphorus"],
-    "correctAnswer" : "Fluorine"
+    "question" : "哪个元素没有多个同素异形体？",
+    "answers" : ["碳", "氧气", "氟", "磷"],
+    "correctAnswer" : "氟"
   },
   {
-    "question" : "Which reaction is not exothermic?",
-    "answers" : ["Dilution of concentrated hydrochloric acid in water.", "Dilution of concentrated sulfuric acid in water.", "Dissolution of solid sodium hydroxide in water.", "Dissolution of solid sodium bicarbonate in water."],
-    "correctAnswer" : "Dissolution of solid sodium bicarbonate in water."
+    "question" : "哪个反应不放热？",
+    "answers" : ["在水中稀释浓盐酸。", "在水中稀释浓硫酸", "固体氢氧化钠在水中的溶解。", "固体碳酸氢钠在水中的溶解。"],
+    "correctAnswer" : "固体碳酸氢钠在水中的溶解。"
   },
   {
-    "question" : "Which gas has an effusion rate closest to half that of oxygen gas at a given temperature?",
+    "question" : "在给定温度下，哪种气体的渗出率最接近氧气的一半？",
     "answers" : ["H2", "He", "SO2", "Xe"],
     "correctAnswer" : "Xe"
   },
   {
-    "question" : "Which compound has the highest normal boiling point?",
-    "answers" : ["1-butanol, CH3CH2CH2CH2OH", "2-butanol, CH3CH2CH(CH3)OH", "2-methyl-1-propanol, (CH3)2CHCH2OH", "2-methyl-2-propanol, (CH3)3COH"],
-    "correctAnswer" : "1-butanol, CH3CH2CH2CH2OH"
+    "question" : "哪种化合物的正常沸点最高？",
+    "answers" : ["1-丁醇，CH3CH2CH2CH2OH", "2-丁醇，CH3CH2CH(CH3)OH", "2-甲基-1-丙醇，(CH3)2CHCH2OH", "2-甲基-2-丙醇，(CH3)3COH"],
+    "correctAnswer" : "1-丁醇，CH3CH2CH2CH2OH"
   },
   {
-    "question" : "The rate constant for an elementary chemical reaction can be affected by which of the following? (I. Reactant concentrations) (II. Product concentrations)",
-    "answers" : ["I only", "II only", "Both I and II", "Neither I nor II"],
-    "correctAnswer" : "Neither I nor II"
+    "question" : "元素化学反应的速率常数受以下哪项影响？(I. 反应物浓度) (二、产品浓度)",
+    "answers" : ["I", "II", "I 和 II", "不是 I 也不是 II"],
+    "correctAnswer" : "不是 I 也不是 II"
   },
   {
-    "question" : "Which molecule is planar?",
+    "question" : "哪个分子是平面的？",
     "answers" : ["CF4", "COF2", "SF4", "SOF2"],
     "correctAnswer" : "COF2"
   },
   {
-    "question" : "Which statement about unsaturated fats is NOT correct?",
-    "answers" : ["Unsaturated fats contain carbon-carbon double bonds.", "Unsaturated fats generally have higher melting points than saturated fats with the same number of carbon atoms.", "Unsaturated fats can be converted to saturated fats by treatment with H2 in the presence of a metal catalyst.", "Unsaturated fats must contain oxygen."],
-    "correctAnswer" : "Unsaturated fats generally have higher melting points than saturated fats with the same number of carbon atoms."
+    "question" : "哪个关于不饱和脂肪的说法是不正确的？",
+    "answers" : ["不饱和脂肪含有碳碳双键。", "不饱和脂肪通常比具有相同碳原子数的饱和脂肪具有更高的熔点。", "不饱和脂肪可以通过在金属催化剂存在下用 H2 处理转化为饱和脂肪。", "不饱和脂肪必须含有氧。"],
+    "correctAnswer" : "不饱和脂肪通常比具有相同碳原子数的饱和脂肪具有更高的熔点。"
   },
   {
-    "question" : "The electronegativity of gallium (1.8) is greater than that of aluminum (1.6). Which is the best explanation for this difference?",
-    "answers" : ["Ga is larger than Al, so its valence electrons experience less electron-electron repulsion.", "Ga has more protons than Al, so its valence electrons are more attracted to the nucleus.", "Ga has a filled 3d subshell, whose electrons incompletely screen the nucleus.", "Ga experiences significant relativistic effects, which contract the valence orbitals."],
-    "correctAnswer" : "Ga has a filled 3d subshell, whose electrons incompletely screen the nucleus."
+    "question" : "镓 (1.8) 的电负性大于铝 (1.6) 的电负性。对于这种差异，哪个是最好的解释？",
+    "answers" : ["Ga 比 Al 大，所以它的价电子受到较少的电子-电子排斥。", "Ga 的质子比 Al 多，所以它的价电子更容易被原子核吸引。", "Ga 有一个填充的 3d 子壳，其电子不完全屏蔽原子核。", "Ga 经历显着的相对论效应，使价轨道收缩。"],
+    "correctAnswer" : "Ga 有一个填充的 3d 子壳，其电子不完全屏蔽原子核。"
   },
   {
-    "question" : "Which solute, when dissolved in 1kg H2O, will give the solution with the highest boiling point?",
-    "answers" : ["50 g ethylene glycol, HOCH2CH2OH", "50 g hydroxyacetic acid, HOCH2COOH", "50 g glycerol, HOCH2CHOHCH2OH", "50 g glyoxal, HCOCHO"],
-    "correctAnswer" : "50 g glyoxal, HCOCHO"
+    "question" : "哪种溶质溶于 1 kg H2O 时会得到最高沸点的溶液？",
+    "answers" : ["50 克乙二醇，HOCH2CH2OH", "50 克羟基乙酸，HOCH2COOH", ",50 克甘油，HOCH2CHOHCH2OH", "50 克乙二醛，HCOCHO"],
+    "correctAnswer" : "50 克乙二醛，HCOCHO"
   },
   {
-    "question" : "A solution of which compound gives a violet flame test?",
+    "question" : "哪种化合物的溶液产生紫色火焰测试？",
     "answers" : ["LiBr", "NaCl", "KNO3", "B(OH)3"],
     "correctAnswer" : "KNO3"
   },
   {
-    "question" : "Hydrogen and oxygen gas are combined in a reaction vessel and reacted completely to form water. What volumes of gases (at STP) will give the greatest mass of water?",
-    "answers" : ["1.0 L H2 and 4.0 L O2", "2.0 L H2 and 3.0 L O2", "3.0 L H2 and 2.0 L O2", "4.0 L H2 and 1.0 L O2"],
-    "correctAnswer" : "3.0 L H2 and 2.0 L O2"
+    "question" : "氢气和氧气在反应容器中混合并完全反应生成水。多少体积的气体（在 STP 下）会产生最大质量的水？",
+    "answers" : ["1.0 L H2 和 4.0 L O2", "2.0 L H2 和 3.0 L O2", "3.0 L H2 和 2.0 L O2", "4.0 L H2 和 1.0 L O2"],
+    "correctAnswer" : "3.0 L H2 和 2.0 L O2"
   },
   {
-    "question" : "Which glassware would be most appropriate for measuring 10.00 mL of distilled water?",
-    "answers" : ["A 10-mL test tube", "A 25-mL beaker", "A 50-mL buret", "A 100-mL graduated cylinder"],
-    "correctAnswer" : "A 50-mL buret"
+    "question" : "哪种玻璃器皿最适合测量 10.00 mL 蒸馏水？",
+    "answers" : ["10 毫升试管", "一个 25 毫升的烧杯", "50 毫升滴定管", "100 毫升量筒"],
+    "correctAnswer" : "50 毫升滴定管"
   },
   {
-    "question" : "Addition of 10 mL of distilled water to 0.1 g of which salt produces a yellow, slightly cloudy solution?",
+    "question" : "将 10 mL 蒸馏水加入 0.1 g 哪种盐中，会产生黄色、微混浊的溶液？",
     "answers" : ["KMnO4", "FeCl3", "Co(NO3)2", "CuSO4"],
     "correctAnswer" : "FeCl3"
   },
   {
-    "question" : "Which statement about FNNF is NOT correct?",
-    "answers" : ["It exists as two distinct geometric isomers.", "It is planar.", "Its nitrogen-nitrogen bond is longer than that in N2F4.", "It is more stable than its structural isomer with both fluorine atoms bonded to the same nitrogen."],
-    "correctAnswer" : "Its nitrogen-nitrogen bond is longer than that in N2F4."
+    "question" : "关于 FNNF 的哪个说法是不正确的？",
+    "answers" : ["它以两种不同的几何异构体形式存在。", "它是平面的。", "其氮-氮键长于 N2F4。", "它比两个氟原子都与同一个氮键合的结构异构体更稳定。"],
+    "correctAnswer" : "其氮-氮键长于 N2F4。"
   }
 ]
